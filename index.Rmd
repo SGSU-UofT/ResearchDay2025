@@ -7,20 +7,56 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
+
+
 ### About
 
-The Graduate Student Research Day in the Department of Statistical Sciences at the University of Toronto is an annual showcase and celebration of research excellence in the Department of Statistical Sciences at the University of Toronto. This year the event will be held virtually using Zoom on May 25, 2022, 9am to 4:45pm EDT, with an option for local participants to watch the event together on-campus (health restrictions permitting).
+Statistics Graduate Student Research Day is an annual research conference organized by graduate students in statistical sciences at the University of Toronto. The purpose of this conference is to highlight exciting work by graduate students in the areas of statistics, mathematical science, and actuarial science. The conference also serves as a networking event, bringing together graduate students from other departments with our own statistical sciences community.
+
+Statistics Graduate Student Research Day will be taking place in the Department of Statistical Sciences at the University of Toronto. The address of the department is \textit{9th Floor, Ontario Power Building, 700 University Avenue, Toronto, ON, M5G 1Z5}. The talks and poster session will be held in the Maple and Cherry Rooms (9014 and 9016). A small breakfast (pastries and coffee) will be provided at 9:30am. Opening remarks will begin at 9:45am, followed by the first round of talks at 10am. Lunch will be provided at 12:45pm. The poster session will be held at 2:30pm. The conference will conclude at approximately 5pm, after closing remarks. For a complete schedule, see the next page. The list of abstracts follows. If you have any questions, please do not hesitate to reach out to a member of the organizing committee.
 
 The schedule can be found [here](schedule.html). The event has three thematic blocks, corresponding to the main research areas in our department: Theoretical Statistics, Applied Statistics, and Math Finance and Actuarial Science. Each block will begin with an invited talk, followed by several talks by our own graduate students. The abstracts can be found [here](abstracts.html).
 
 ### Event organizing committee
 
-Emma Kroell (lead organizer), Blair Bilodeau, Michael Chong, 
-Kathleen Miao, Marija Pejcinovska, Sabrina Sixta
+<div style="text-align: center;">
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>Nnenna Asidianya</td>
+    <td>Elijah French</td>
+    <td>Bushra Haque</td>
+  </tr>
+  <tr>
+    <td>Ruyi Pan</td>
+    <td>Yaqi Shi</td>
+    <td>Fred Song</td>
+  </tr>
+  <tr>
+    <td>KC Tsiolis</td>
+    <td>Mandy Yao</td>
+    <td>Jingxin (Owen) Wang</td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ### Acknowledgments
 
-The organizing committee thanks Rohan Alexander, Jessica Gronsbell, and Vianey Leos Barajas for their advice and guidance.
+
+The organizing committee thanks faculty members Dr.Sebastian Jaimungal, Dr.Stanislav Volgushev, and Dr.Piotr Zwiernik, as well as staff members Angela Fleury, Karla Barrera, and Kachely Peters for assistance and guidance in planning. The organizing committee also thanks the Department of Statistical Sciences at the University of Toronto for providing funding support.
+
+
+### Acknowledgement of Traditional Land
+
+We wish to acknowledge this land on which the University of Toronto operates. For thousands of years it has been the traditional land of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
+
+
+
+
+
 
 <center>
 <div class "layout-chunk">
