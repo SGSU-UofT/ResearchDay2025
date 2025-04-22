@@ -60,6 +60,8 @@ Chair: Elijah French (DoSS)
 
 Time: 14:30–15:45
 
+Abstracts for the poster session are also available [here](abstracts.html#Poster-Presentation).
+
 
 
 
@@ -73,6 +75,11 @@ Chair: Ruyi Pan (DoSS)
 | 16:15–16:45   | *Restricted Search Space Graph MCMC via Birth-Death Processes* [(abstract)](abstracts.html#morris-greenberg) | Morris Greenberg (DoSS)         |
 
 
+### Closing Remarks
+
+Time: 16:45-17:00
+
+Speaker: KC Tsiolis (DoSS)
 
 
 
