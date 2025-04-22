@@ -1,6 +1,6 @@
 # ResearchDay2025
 
-The official website for the 2025 edition of the DOSS Research Day at UofT
+The official website for the 2025 edition of the DoSS Research Day at UofT
 
 This is the link to the website: https://sgsu-uoft.github.io/ResearchDay2025/
 
@@ -14,4 +14,4 @@ The _site.yml controls the site layout and the theme.css file controls its look.
       href: newpage.html
 ```
 
-To make a new version of this website (ex. Research Day 2023), make another repository with this name and copy over these contents, or start from scratch by creating an RStudio project with the distill template. To launch the website, turn on GitHub pages and make sure it is being built from the docs folder. You also need to make sure the .nojkeyll file is in the repo. More info [here](https://rstudio.github.io/distill/publish_website.html). Your repository name will set the url for your new website (ex. if we create a repo called ResearchDay2023, it will be at https://sgsu-uoft.github.io/ResearchDay2023/).
+To make a new version of this website (ex. Research Day 2026), make another repository with this name and copy over these contents, or start from scratch by creating an RStudio project with the distill template. To launch the website, turn on GitHub pages and make sure it is being built from the docs folder. You also need to make sure the .nojkeyll file is in the repo. More info [here](https://rstudio.github.io/distill/publish_website.html). Your repository name will set the url for your new website (ex. if we create a repo called ResearchDay2023, it will be at https://sgsu-uoft.github.io/ResearchDay2026/).
