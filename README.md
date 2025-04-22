@@ -1,4 +1,6 @@
-# ResearchDay2022
+# ResearchDay2025
+
+The official website for the 2025 edition of the DOSS Research Day at UofT
 
 This website is made using the R package distill. Information about how to make a website with this package is available [here](https://rstudio.github.io/distill/website.html). I will provide a brief summary of how to modify this website, but the distill documentation is the best resource for making changes.
 
