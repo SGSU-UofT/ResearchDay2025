@@ -2,6 +2,8 @@
 
 The official website for the 2025 edition of the DOSS Research Day at UofT
 
+This is the link to the website: https://sgsu-uoft.github.io/ResearchDay2025/
+
 This website is made using the R package distill. Information about how to make a website with this package is available [here](https://rstudio.github.io/distill/website.html). I will provide a brief summary of how to modify this website, but the distill documentation is the best resource for making changes.
 
 You can create a new distill webpage by creating a project using the distill template in RStudio (make sure you install distill first). To build the website locally and preview your changes before pushing your updates, click "Build Website" on the Build panel in RStudio. Building the website creates all the html from the Rmarkdown files, which are stored in the docs folder, and actually form the website.
