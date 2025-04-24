@@ -31,12 +31,17 @@ The schedule can be found [here](schedule.html). The event has four thematic blo
   <tr>
     <td>Ruyi Pan</td>
     <td>Yaqi Shi</td>
-    <td>Fred Song</td>
+    <td>Luis Sierra Muntané</td>
   </tr>
   <tr>
+    <td>Fred Song</td>
     <td>KC Tsiolis</td>
     <td>Mandy Yao</td>
+  </tr>
+  <tr>
     <td>Jingxin (Owen) Wang</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
