@@ -31,17 +31,20 @@ The schedule can be found [here](schedule.html). The event has four thematic blo
   <tr>
     <td>Ruyi Pan</td>
     <td>Yaqi Shi</td>
-    <td>Luis Sierra Muntané</td>
+    <td>Fred Song</td>
   </tr>
   <tr>
-    <td>Fred Song</td>
     <td>KC Tsiolis</td>
     <td>Mandy Yao</td>
+<<<<<<< HEAD
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td>Jingxin (Owen) Wang</td>
     <td>&nbsp;</td>
+=======
+    <td>Jingxin (Owen) Wang</td>
+>>>>>>> parent of bafaecd (Update index.Rmd)
   </tr>
 </table>
 
